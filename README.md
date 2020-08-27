@@ -8,7 +8,7 @@ The goal is to make the original cleaner with more efficeint tags and downsize t
 
 ## Installation 
 
-###Steps to installation
+### Steps to installation
 * Click the green code download link at the top right of the repository. Use the HTTPS link or SSH key.
 * If using SSH key. Copy the link into your terminal or gitbash. Type in git clone and paste the copied text. 
 * Once downloaded open in code editor. Make sure you are using a branch and not the master when making changes. 
